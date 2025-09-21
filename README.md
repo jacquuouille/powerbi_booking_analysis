@@ -34,6 +34,8 @@ Providing a comprehensive view of booking analysis and visualization for Nationa
 
 ## ⭐️ Star Schema
 
+![Star Schema Data Model](screenshots/data_model.png)
+
 
 ## 📊 Dashboard 
 
