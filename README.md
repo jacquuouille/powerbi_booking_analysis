@@ -46,3 +46,10 @@ Providing a comprehensive view of booking analysis and visualization for Nationa
 4. **Average ticket price:** £24 (+12.3pts MoM)
 5. **Online purchase (%):** 58.0% (-1.6pts MoM)
 
+#### KPIs (Refunds Report - March 2024)
+1. **Refundable Tickets (%):** 14.1% (+1.2pts MoM).
+2. **Refunded Tickets (out of refundable - %):** 26.9% (+1.6pts MoM).
+3. **Refunded Revenue:** 5.4% (+0.4pt MoM).
+4. **Delayed Journeys:** 7.9% (+0.6pt MoM).
+5. **Cancelled journeys:** 6.1% (+0.6pt MoM).
+
