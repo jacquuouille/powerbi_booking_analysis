@@ -32,6 +32,9 @@ Providing a comprehensive view of booking analysis and visualization for Nationa
 | Reason for Delay     | text       | Reason for delay, if any                   |
 | Refund Request       | boolean    | Whether a refund was requested             |
 
+## ⭐️ Star Schema
+
+
 ## 📊 Dashboard 
 
 #### KPIs (Bookings Report - March 2024)
