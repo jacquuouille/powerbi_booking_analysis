@@ -55,7 +55,7 @@ Providing a comprehensive view of booking analysis and visualization for Nationa
 4. **Delayed Journeys:** 7.9% (+0.6pt MoM).
 5. **Cancelled journeys:** 6.1% (+0.6pt MoM).
 
-## 📈 Key Learning:
+## 📈 Key Learnings:
 - Most purchased tickets are Advance, followed by Off-Peak and Anytime.
 - Most of the tickets are bought online (59%) rather at the station.
 - Almost 9 out of 10 tickets are booked on the same day or one day before departure.
