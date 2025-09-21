@@ -53,3 +53,13 @@ Providing a comprehensive view of booking analysis and visualization for Nationa
 4. **Delayed Journeys:** 7.9% (+0.6pt MoM).
 5. **Cancelled journeys:** 6.1% (+0.6pt MoM).
 
+## 📈 Key Learning:
+- Most purchased tickets are Advance, followed by Off-Peak and Anytime.
+- Most of the tickets are bought online (59%) rather at the station.
+- Bookings peak in the morning (7–9 AM) and evening (5–7 PM), with lows at night and midday.
+- Almost 9 out of 10 tickets are booked on the same day or one day before departure.
+- The booking pattern also varies significantly depending on the ticket type:
+  - Advance tickets are usually bought in the morning (8–9 AM) and the evening (5–8 PM), regardless of whether it is a weekday or weekend.
+  - Off-Peak tickets seem to be more seasonal, with high volumes typically booked on weekends (Friday through Sunday). They are most often purchased early in the morning (5–7 AM) and in the afternoon (2–6 PM). There was also an isolated spike on March 23, 2024, suggesting a one-off event.
+  - Anytime tickets are mainly booked during weekdays, typically within office hours, and are rarely purchased on weekends—likely reflecting business travel needs.
+- **It looks like there was a promotional period to drive early booking** → ![Ad-hoc Analysis](https://www.dropbox.com/scl/fi/ljyy3wfl1ydabcjlms888/Early-Bookings-Analysis-Jacques-Hervochon.pdf?rlkey=avhdyzsh31i9j7d9dc71fnqf2&e=1&st=i0wp7yex&dl=0)
