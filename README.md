@@ -69,6 +69,9 @@ Providing a comprehensive view of booking analysis and visualization for Nationa
 ## 🛠️ Technology Stack
 - Power BI, PostgreSQL, Python, VS Code , Github
 
+## ℹ️ Data Source
+[Meaven Analytics](https://mavenanalytics.io/data-playground?order=date_added%2Cdesc&pageSize=20)
+
 ## 👨‍💻 Author
 **Jacques Hervochon** 
 
