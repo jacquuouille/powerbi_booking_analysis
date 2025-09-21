@@ -73,9 +73,7 @@ Providing a comprehensive view of booking analysis and visualization for Nationa
 [Meaven Analytics](https://mavenanalytics.io/data-playground?order=date_added%2Cdesc&pageSize=20)
 
 ## 👨‍💻 Author
-**Jacques Hervochon** 
-
-🟦 [LinkedIn](https://www.linkedin.com/in/jacques-hervochon-27448898) |
+**Jacques Hervochon** 🟦 [LinkedIn](https://www.linkedin.com/in/jacques-hervochon-27448898) |
 🔗 [Portfolio](https://jacqueshervochon.carrd.co/#) |
 📆 [Book a call](https://calendly.com/jacqueshervochon/30min)
 
