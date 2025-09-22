@@ -69,7 +69,7 @@ Providing a comprehensive view of booking analysis and visualization for Nationa
   - Advance tickets are usually bought in the morning (8–9 AM) and the evening (5–8 PM), regardless of whether it is a weekday or weekend.
   - Off-Peak tickets seem to be more seasonal, with high volumes typically booked on weekends (Friday through Sunday). They are most often purchased early in the morning (5–7 AM) and in the afternoon (2–6 PM). There was also an isolated spike on March 23, 2024, suggesting a one-off event.
   - Anytime tickets are mainly booked during weekdays, typically within office hours, and are rarely purchased on weekends—likely reflecting business travel needs.
-- **It looks like there was a promotional period to drive early booking** → see Early Bookings Analysis in `analysis`
+- **It looks like there was a promotional period to drive early booking** → see Early Bookings Analysis in `analysis`.
 
 ## 🛠️ Technology Stack
 - Power BI, PostgreSQL, Python, VS Code , Github
