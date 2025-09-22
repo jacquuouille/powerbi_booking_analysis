@@ -62,7 +62,7 @@ Providing a comprehensive view of booking analysis and visualization for Nationa
 
 ## 📈 Key Learnings:
 - Most purchased tickets are Advance, followed by Off-Peak and Anytime.
-- Most of the tickets are bought online (59%) rather at the station.
+- Most of the tickets are bought online (59%) rather than at the station.
 - Almost 9 out of 10 tickets are booked on the same day or one day before departure.
 - Bookings peak in the morning (7–9 AM) and evening (5–7 PM), with lows at night and midday.
 - The booking pattern also varies significantly depending on the ticket type:
