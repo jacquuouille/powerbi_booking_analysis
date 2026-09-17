@@ -3,7 +3,7 @@
 ## 📖 Overview
 Providing a comprehensive view of booking analysis and visualization for National Rail in the UK, helping track purchase trends, analyze Railcard usage, and identify refund patterns.
 
-👉 [Power BI Dashboard](https://www.dropbox.com/scl/fi/3twxd80q7lh9g1idn0c52/Offer-Campaign-Analysis-Dashboard.pdf?rlkey=xrz2o1b2g893mtfdyvxy5ny37&st=csh9itxz&dl=0)
+👉 [Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMjhjMGJhYWYtYWE4Ny00YWQ0LWJlNjAtNzQ2Yjk4YmQzZGQzIiwidCI6IjdkNDg3NDc4LWNhMjYtNDkxOS05MDlhLTBjNDU3MTQyYzczNCJ9&pageName=54e34d8c24a1d920c519)
 
 ![Booking Analysis Dashboard](screenshots/booking_dashboard.png)
 
